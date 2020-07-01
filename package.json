@@ -1,6 +1,6 @@
 {
     "name": "optidash",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Official Node integration for Optidash - AI-powered image optimization and processing API. We will drastically speed-up your websites and save you money on bandwidth and storage.",
     "license": "MIT",
     "repository": "optidash-ai/optidash-node",
